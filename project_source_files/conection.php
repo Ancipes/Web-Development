@@ -6,6 +6,6 @@ if($con==False)
    	  }
    else
    	  {
-   	  	echo "oH No";
+   	  	echo "oH No 2";
    	  }
 ?>
